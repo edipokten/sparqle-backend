@@ -1,0 +1,48 @@
+driverName;orderRef;address;lat;lng;status;type;startTime;endTime;driverNotes;completedAt;skipNotes;routePlanType;load;arrivalTime;finishTime;order
+Den Haag - Rider 1;8852;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:33.068Z;;PDP;;15:01;15:01;0
+Den Haag - Rider 1;8852;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:33.068Z;;PDP;;15:01;15:01;1
+Den Haag - Rider 1;8861;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:41.863Z;;PDP;;15:11;15:11;2
+Den Haag - Rider 1;8856;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;Afgeleverd bij 306;2023-12-13T14:48:49.948Z;;PDP;;15:11;15:11;3
+Den Haag - Rider 1;8851;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:49:00.209Z;;PDP;;15:11;15:11;4
+Den Haag - Rider 1;8856;Boomsluiterskade  303, 2511 VJ 's-Gravenhage;52,0774782;4,3253606;COMPLETED;delivery;15:00;22:30;Afgeleverd bij 306;2023-12-13T15:00:40.881Z;;PDP;;15:13;15:23;5
+Den Haag - Rider 1;8852;Baltimorehof  47, 2548 JN 's-Gravenhage;52,0321411;4,2823334;COMPLETED;delivery;15:00;22:30;;2023-12-13T15:29:32.495Z;;PDP;;16:16;16:26;6
+Den Haag - Rider 1;8865;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T15:29:40.989Z;;PDP;;15:29;15:39;7
+Den Haag - Rider 1;8851;Pioendreef  68, 2285 KP Rijswijk;52,0399696;4,2945293;COMPLETED;delivery;15:00;22:30;;2023-12-13T15:44:20.940Z;;PDP;;15:52;16:02;8
+Den Haag - Rider 1;8861;Praagsingel  199, 2548 TV 's-Gravenhage;52,0229045;4,2974569;COMPLETED;delivery;15:00;22:30;;2023-12-13T15:58:41.354Z;;PDP;;16:05;16:15;9
+Den Haag - Rider 1;8865;Singel  110, 2291 ZM Wateringen;52,030482;4,27855;COMPLETED;delivery;15:00;22:30;;2023-12-13T16:08:55.237Z;;PDP;;16:27;16:37;10
+Den Haag - Rider 1;8848;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:30.226Z;;PDP;;15:55;15:55;11
+Den Haag - Rider 1;8849;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:37.054Z;;PDP;;15:55;15:55;12
+Den Haag - Rider 1;8855;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:45.779Z;;PDP;;15:55;15:55;13
+Den Haag - Rider 1;8858;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:48:55.106Z;;PDP;;15:55;15:55;14
+Den Haag - Rider 1;8850;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:49:03.931Z;;PDP;;15:55;15:55;15
+Den Haag - Rider 1;8857;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;Afgeleverd aan koningin julianaweg 152;2023-12-13T15:29:44.571Z;;PDP;;15:55;15:55;16
+Den Haag - Rider 1;8869;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;Afgeleverd aan nummer 171;2023-12-13T15:29:49.351Z;;PDP;;16:01;16:01;17
+Den Haag - Rider 1;8864;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T15:29:54.394Z;;PDP;;16:01;16:11;18
+Den Haag - Rider 1;8867;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T15:29:57.948Z;;PDP;;16:11;16:11;19
+Den Haag - Rider 1;8871;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T15:30:01.198Z;;PDP;;16:11;16:11;20
+Den Haag - Rider 1;8858;Willem III straat  42, 2291 TM Wateringen;52,0281181;4,2701863;COMPLETED;delivery;15:00;22:30;;2023-12-13T16:18:53.171Z;;PDP;;16:15;16:25;21
+Den Haag - Rider 1;8855;Heulweg  127, 2295 KE Kwintsheul;52,0169847;4,2569086;COMPLETED;delivery;15:00;22:30;;2023-12-13T16:29:01.441Z;;PDP;;16:27;16:37;22
+Den Haag - Rider 1;8864;Adriana van Roonlaan  80, 2544 NM 's-Gravenhage;52,030641;4,2455344;COMPLETED;delivery;15:00;22:30;;2023-12-13T16:45:12.654Z;;PDP;;16:39;16:49;23
+Den Haag - Rider 1;8867;Doris Lessinglaan  96, 2553 ZB 's-Gravenhage;52,033849;4,216349;COMPLETED;delivery;15:00;22:30;;2023-12-13T16:57:28.732Z;;PDP;;16:52;17:02;24
+Den Haag - Rider 1;8848;Strausslaan  513, 2551 NH 's-Gravenhage;52,0594987;4,2344648;COMPLETED;delivery;15:00;22:30;;2023-12-13T17:16:26.705Z;;PDP;;17:06;17:16;25
+Den Haag - Rider 1;8869;Zandzeggelaan  173, 2554 HM 's-Gravenhage;52,0694848;4,2331948;COMPLETED;delivery;15:00;22:30;Afgeleverd aan nummer 171;2023-12-13T17:27:01.319Z;;PDP;;17:18;17:28;26
+Den Haag - Rider 1;8850;Primulastraat  32, 2565 PJ 's-Gravenhage;52,0726608;4,2535586;COMPLETED;delivery;15:00;22:30;;2023-12-13T17:35:15.802Z;;PDP;;17:30;17:40;27
+Den Haag - Rider 1;8871;Tholensestraat  68, 2583 NT 's-Gravenhage;52,0887621;4,2590149;COMPLETED;delivery;15:00;22:30;;2023-12-13T17:46:54.860Z;;PDP;;17:42;17:52;28
+Den Haag - Rider 1;8849;Stadhoudersplantsoen  156, 2517 SJ 's-Gravenhage;52,0857989;4,2773553;COMPLETED;delivery;15:00;22:30;;2023-12-13T17:59:22.512Z;;PDP;;17:54;18:04;29
+Den Haag - Rider 1;8863;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T17:59:41.401Z;;PDP;;18:12;18:12;30
+Den Haag - Rider 1;8870;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;Delivered to nijkerlaan 84;2023-12-13T17:59:47.233Z;;PDP;;18:12;18:12;31
+Den Haag - Rider 1;8863;Elsstraat  47, 2565 KL 's-Gravenhage;52,0780693;4,2712703;COMPLETED;delivery;15:00;22:30;;2023-12-13T18:07:36.402Z;;PDP;;18:19;18:29;32
+Den Haag - Rider 1;8870;Nijkerklaan  9, 2573 BA 's-Gravenhage;52,0639804;4,2827021;COMPLETED;delivery;15:00;22:30;Delivered to nijkerlaan 84;2023-12-13T18:21:48.139Z;;PDP;;18:31;18:41;33
+Den Haag - Rider 1;8866;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;;2023-12-13T18:22:29.799Z;;PDP;;18:46;18:46;34
+Den Haag - Rider 1;8866;Van Bassenstraat  85, 2515 JB 's-Gravenhage;52,0670241;4,3147412;COMPLETED;delivery;15:00;22:30;;2023-12-13T18:37:41.728Z;;PDP;;18:50;19:00;35
+Den Haag - Rider 1;8883;Prins Johan Friso Promenade 36, 2284 DK Rijswijk, Netherlands;52,0381466;4,3145285;COMPLETED;pickup;;;Afgeleverd door brievenbus;2023-12-13T18:38:02.887Z;;PDP;;19:05;19:05;36
+Den Haag - Rider 1;8883;Calandkade  62, 2521 AA 's-Gravenhage;52,0606365;4,3136848;COMPLETED;delivery;15:00;22:30;Afgeleverd door brievenbus;2023-12-13T18:45:38.408Z;;PDP;;19:08;19:18;37
+Den Haag - Ilias Meijer;8847;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:47:12.188Z;;PDP;;19:20;19:30;38
+Den Haag - Ilias Meijer;8847;Thijssestraat  46, 2521 ZL 's-Gravenhage;52,0623232;4,3209477;COMPLETED;delivery;15:00;22:30;;2023-12-13T18:55:57.102Z;;PDP;;19:33;19:43;39
+Den Haag - Rider 1;8868;Nassau Dillenburgstraat 12, The Hague, Netherlands;52,0895396;4,314238;COMPLETED;pickup;;;;2023-12-13T18:56:08.813Z;Kan niet geleverd worden ivm industrie terrein;PDP;;19:46;19:46;40
+Den Haag - Rider 1;8868;Binckhorstlaan  291E, 2516 BC 's-Gravenhage;52,0642122;4,3405802;COMPLETED;delivery;15:00;22:30;;2023-12-14T15:17:14.003Z;Kan niet geleverd worden ivm industrie terrein;PDP;;19:51;20:01;41
+Den Haag - Rider 1;8806;Nassau Dillenburgstraat 12, The Hague, Netherlands;52,0895396;4,314238;COMPLETED;pickup;;;Voor de deur;2023-12-12T14:20:04.594Z;;PDP;;20:05;20:15;42
+Den Haag - Rider 1;8806;Cornelis Voorhoevelaan  22, 2272 WZ Voorburg;52,0785567;4,3869863;COMPLETED;delivery;15:00;22:30;Voor de deur;2023-12-13T19:26:16.825Z;;PDP;;20:22;20:32;43
+Den Haag - Rider 1;8857;Koningin Julianaweg  154, 2264 BG Leidschendam;52,0873638;4,3996077;COMPLETED;delivery;15:00;22:30;Afgeleverd aan koningin julianaweg 152;2023-12-14T08:21:20.653Z;;PDP;;20:34;20:44;44
+Den Haag - Ilias Meijer;8853;Spuistraat 13, 2511 BC Den Haag, Netherlands;52,0771428;4,3115002;COMPLETED;pickup;;;;2023-12-13T14:47:00.343Z;;PDP;;20:52;20:52;45
+Den Haag - Ilias Meijer;8853;Vondelstraat  65, 2513 EP 's-Gravenhage;52,080549;4,300184;COMPLETED;delivery;15:00;22:30;;2023-12-14T08:51:10.020Z;;PDP;;20:53;21:03;46
